@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "现实的回响",
+		"leaderName": "杰克",
+		"adjective": ["Sprunki"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "祝贺您，伟大的杰克冕下，您的现实的回响世界观是sprunki paro的一道希望之光，您总是以宽容和和蔼的姿态去注视着每一位同行的创作者，这也是您能够最终得以登上这至高无上之位的原因，聆听吧，在城中的每一处街坊，每一座军营，都在赞颂着您伟大的功绩，行进吧，亲爱的杰克冕下，您的宽容让敌人臣服，您的军队也准备好了利刃，准备好让敌人臣服，让我们的理想走向世界了吗？",
+		"startIntroPart2": "致以我们的杰克冕下，您和朋友们的交往让人心驰神往，您和灵欣的感情也是我们宽容和平等的象征，但是，现在我们的国家危机四伏，稍不注意这个sprunki的理想邦就将跌入万劫不复之地，希望您在宽容和温和的同时握紧手中的钢铁，人民和军队将永远是您最坚实的后盾",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "我得承认，某些时候……我实在是太宽容了，我必须作出这一次选择，奋力一搏吧",
+		"attacked": "好吧，看得出来，你很讨厌我，让我们战场上见真章",
+		"defeated": "我得承认……你赢了，既然我们的乌托邦失败……去建设你们的理想乡吧……",
+		"introduction": "初次见面，请多关照，这位朋友",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "你好么？请问有什么事？",
+		"neutralLetsHearIt": ["嗯？","……","继续说吧"],
+		"neutralNo": ["不了，谢谢","很抱歉，我们选择拒绝","请容许我否决"],
+		"neutralYes": ["那么……谢谢你的好意","这当然可以，先生","可以的"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "你还有脸来？！",
+		"hateLetsHearIt": ["有话就说有屁就放！","说","还不快点，我不想浪费时间！"],
+		"hateNo": ["滚！","去你妈的！","我们拒绝！"],
+		"hateYes": ["好吧，这确实不错","勉强同意了","嗯……"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "终于啊终于……",
+		"tradeRequest": "让我们做一次互惠贸易吧，请别太苛刻",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["现实之地","回响之邦","群英荟萃之城","共和之处","日落之邦","长眠之城","富庶之地","理想国邦","神圣邦城","自由王国"]
 	}
 ]
